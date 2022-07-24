@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50046889356",
+    "project_id": "recyclercloudfire",
+    "storage_bucket": "recyclercloudfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50046889356:android:49bd2c29cb37e7b5a4baa9",
+        "android_client_info": {
+          "package_name": "com.example.recyclercloudfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50046889356-6kg7v6uvga5ebdiqsnfegg642f6hh8kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2XtCn5ZpWt71ioAZ_T8AZWjg2-PlWCME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50046889356-6kg7v6uvga5ebdiqsnfegg642f6hh8kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
